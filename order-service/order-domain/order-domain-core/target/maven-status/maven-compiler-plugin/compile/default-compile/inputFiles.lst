@@ -1,0 +1,6 @@
+D:\My Data\WorkSpace\DDD_WS\food-ordering-system\order-service\order-domain\order-domain-core\src\main\java\com\food\ordering\system\order\service\domain\entity\Order.java
+D:\My Data\WorkSpace\DDD_WS\food-ordering-system\order-service\order-domain\order-domain-core\src\main\java\com\food\ordering\system\order\service\domain\entity\Product.java
+D:\My Data\WorkSpace\DDD_WS\food-ordering-system\order-service\order-domain\order-domain-core\src\main\java\com\food\ordering\system\order\service\domain\entity\OrderItem.java
+D:\My Data\WorkSpace\DDD_WS\food-ordering-system\order-service\order-domain\order-domain-core\src\main\java\com\food\ordering\system\order\service\domain\valueobject\StreetAddress.java
+D:\My Data\WorkSpace\DDD_WS\food-ordering-system\order-service\order-domain\order-domain-core\src\main\java\com\food\ordering\system\order\service\domain\valueobject\OrderItemId.java
+D:\My Data\WorkSpace\DDD_WS\food-ordering-system\order-service\order-domain\order-domain-core\src\main\java\com\food\ordering\system\order\service\domain\valueobject\TrackingId.java
